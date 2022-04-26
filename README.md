@@ -9,8 +9,8 @@
 
 - 💬 Languages: Chinese(Simplified), a little English
 - 📫 Contact: 
-              -- mail: miqoteyimo@qq.com
-              -- discord: yimo#1221
+  - mail: miqoteyimo@qq.com
+  - discord: yimo#1221
 
 
 
